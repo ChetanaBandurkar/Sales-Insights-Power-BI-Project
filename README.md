@@ -9,6 +9,8 @@ The organization’s sales data existed in scattered files and systems, making i
 
 Project Objective:
 
+KPI'S
+
 1. A centralized view of overall sales performance
 
 2. Analysis of revenue and sales quantity trends over time
